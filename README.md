@@ -23,7 +23,6 @@ const flor = {
                         age: 22,
                         dogs: true,
                       },
- challenge: "I am doing the Working in Corebiz: Front End challenge focused on react, javascipt and html"
 }
 ```
 
