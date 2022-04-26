@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2> Hi, I'm Flor Bordenave! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="230"> </br>Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://cdn.dribbble.com/users/1047273/screenshots/6515762/01-pinssm.gif" width="230"> Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: FlorBordenave](https://img.shields.io/badge/-florBordenave-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/florencia-bordenave-86244c616b/)](https://www.linkedin.com/in/florencia-bordenave-86244616b/)
