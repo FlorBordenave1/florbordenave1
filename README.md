@@ -29,9 +29,6 @@ const flor = {
 
  <h5> 🌱 I’m currently learning Node.js  </h5>
 
-<img src="https://cdn.dribbble.com/users/4062800/screenshots/15909239/media/50841460df915641a4035adde0d4be97.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
 
 ⭐️ From [@FlorBordenave1](https://github.com/FlorBordenave1)
 
